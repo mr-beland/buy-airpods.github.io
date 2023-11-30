@@ -691,26 +691,31 @@ body {
 
     .title--air {
         /* transform: translate(-125px,-33px); */
-        transform: translate(-117px,-33px);
+        /* transform: translate(-117px,-33px); */
+        transform: translate(-115px,-35px)
     }
 
     .title .title--pod.move {
         /* transform: translate(-120px,-33px); */
-        transform: translate(-108px,-33px);
+        /* transform: translate(-108px,-33px); */
+        transform: translate(-111px,-34px);
         
     }
 
     .title--s {
         /* transform: translate(-8px,-31px); */
-        transform: translate(-4px,-31px);
+        /* transform: translate(-4px,-31px); */
+        transform: translate(-12px,-33px);
     }
 
     .title--m {
-        transform: translate(36px,-31px);
+        /* transform: translate(36px,-31px); */
+        transform: translate(27px,-33px);
     }
 
     .title--ax {
-        transform: translate(38px,-31px);
+        /* transform: translate(38px,-31px); */
+        transform: translate(29px,-33px);
     }
  
 }
