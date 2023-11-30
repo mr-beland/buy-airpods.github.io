@@ -690,16 +690,19 @@ body {
     }
 
     .title--air {
-        transform: translate(-125px,-33px);
+        /* transform: translate(-125px,-33px); */
+        transform: translate(-117px,-33px);
     }
 
     .title .title--pod.move {
-    transform: translate(-120px,-33px);
-
+        /* transform: translate(-120px,-33px); */
+        transform: translate(-108px,-33px);
+        
     }
 
     .title--s {
-        transform: translate(-8px,-31px);
+        /* transform: translate(-8px,-31px); */
+        transform: translate(-4px,-31px);
     }
 
     .title--m {
