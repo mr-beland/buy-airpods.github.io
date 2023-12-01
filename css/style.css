@@ -688,9 +688,10 @@ body {
     .footer__list {
         padding-top: 60px;
         flex-direction: column;
+        padding-left: 0px;
+        padding-right: 0px;
         align-items: center;
         gap: 20px;
-
     }
 
     .title--air {
@@ -726,6 +727,7 @@ body {
 
 
 @media (max-width: 414px) {
+
     .main__title, 
     .choose-color__title {
         font-size: 28px;
