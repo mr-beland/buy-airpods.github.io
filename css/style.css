@@ -747,6 +747,15 @@ body {
 
 @media (max-width: 404px) {
 
+    .footer__list {
+        padding-top: 60px;
+        flex-direction: column;
+        padding-left: 0px;
+        padding-right: 0px;
+        align-items: center;
+        gap: 20px;
+    }
+
     .title {
         font-size: 50px;
     }
